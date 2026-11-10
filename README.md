@@ -84,6 +84,7 @@ To evaluate the varied behaviors of generative systems, the following prompts we
 > Generative AI is a type of artificial intelligence that creates new content. If traditional AI is a classifier that looks at a photo and says "this is a cat," generative AI is an artist that paints a new cat it has never seen before.
 > **How It Differs:** Traditional AI works with labeled data to make predictions or categorizations. Generative AI works with massive amounts of unlabeled data to learn underlying structures. 
 > **How It Works:** Using neural networks, it learns that certain word combinations or image features are statistically likely to follow others. It creates outputs by predicting and generating one piece at a time, resulting in original content [1].
+<img width="1200" height="754" alt="image" src="https://github.com/user-attachments/assets/b0eccca2-7a42-4738-ba4e-0458e5eff463" />
 
 ### Exercise 2: Focusing on Generative AI Architectures (Transformers)
 **ChatGPT:**
@@ -110,6 +111,7 @@ To evaluate the varied behaviors of generative systems, the following prompts we
 > 3. **Code Generation:** Writing code, debugging, generating test cases.
 > 4. **Healthcare:** Medical report drafting, patient documentation.
 > 5. **Education & Business:** Personalized tutoring, report generation, market analysis.
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/c1ac833f-21be-4e67-8adc-1a5c1f50bc66" />
 
 **Claude:**
 > **Real-World Applications of Generative AI**
@@ -156,6 +158,7 @@ To evaluate the varied behaviors of generative systems, the following prompts we
 > **Phase 2: Self-Supervised Pre-training:** This is the most compute-heavy phase. The model processes the data to minimize its error rate in predicting the next token. Here, it acquires its general worldview, factual knowledge, and linguistic structure.
 > **Phase 3: Supervised Fine-Tuning (SFT):** The raw model is adapted using highly curated instruction-response pairs. This teaches the model the "format" of dialogue and instruction-following.
 > **Phase 4: Alignment:** Techniques like Reinforcement Learning from Human Feedback (RLHF) or Direct Preference Optimization (DPO) are applied. The model is penalized for unsafe or incorrect outputs and rewarded for accuracy and harmlessness, establishing its final behavioral guardrails.
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/a6771a90-4b6f-41ae-a081-a4e2a995eead" />
 
 ---
 
